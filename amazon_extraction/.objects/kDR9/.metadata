@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Amazon.in  Automation books",
+  "Type": "App",
+  "Id": "kDR9D0PCEkakkGpF9VoomQ",
+  "Reference": "pgd8570bi0G0QN4Ki8QVbg/kDR9D0PCEkakkGpF9VoomQ",
+  "Created": "2026-02-04T06:20:43.697888Z",
+  "Updated": "2026-02-04T06:20:43.697888Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.25.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
