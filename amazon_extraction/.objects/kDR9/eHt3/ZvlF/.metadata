@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Amazon.in  Automation books",
+  "Type": "Screen",
+  "Id": "ZvlF2b1Ll0GeLVz4b6MxNQ",
+  "Reference": "pgd8570bi0G0QN4Ki8QVbg/ZvlF2b1Ll0GeLVz4b6MxNQ",
+  "ParentRef": "pgd8570bi0G0QN4Ki8QVbg/eHt3fyBR2UayQ9G20PhUpg",
+  "Created": "2026-02-04T06:20:44.0592111Z",
+  "Updated": "2026-02-04T06:20:44.0592111Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.25.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
